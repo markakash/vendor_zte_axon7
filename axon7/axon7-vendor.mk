@@ -54,10 +54,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/axon7/proprietary/vendor/etc/tfa/stereo_qc_spk.cnt:$(TARGET_COPY_OUT_VENDOR)/etc/tfa/stereo_qc_spk.cnt \
     vendor/zte/axon7/proprietary/vendor/etc/tfa/stereo_qc_spk_l.cnt:$(TARGET_COPY_OUT_VENDOR)/etc/tfa/stereo_qc_spk_l.cnt \
     vendor/zte/axon7/proprietary/vendor/etc/tfa/stereo_qc_spk_r.cnt:$(TARGET_COPY_OUT_VENDOR)/etc/tfa/stereo_qc_spk_r.cnt \
-    vendor/zte/axon7/proprietary/lib/hw/vr.default.so:system/lib/hw/vr.default.so \
     vendor/zte/axon7/proprietary/vendor/lib/libtfa9890.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtfa9890.so \
     vendor/zte/axon7/proprietary/vendor/lib/libtrueportrait.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtrueportrait.so \
-    vendor/zte/axon7/proprietary/lib64/hw/vr.default.so:system/lib64/hw/vr.default.so \
     vendor/zte/axon7/proprietary/vendor/lib64/libtfa9890.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtfa9890.so \
     vendor/zte/axon7/proprietary/vendor/bin/gx_fpd:$(TARGET_COPY_OUT_VENDOR)/bin/gx_fpd \
     vendor/zte/axon7/proprietary/vendor/bin/mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/mm-qcamera-daemon \
